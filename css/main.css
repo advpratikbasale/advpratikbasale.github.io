@@ -84,6 +84,7 @@ section{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    width: 100%;
     color: #fff;
     display: flex;
     flex-direction: column;
@@ -252,6 +253,7 @@ section{
 .testimonial{
     background-image: linear-gradient(rgba(0, 0, 0, 0.432), rgba(0, 0, 0, 0.432)), url(../assets/testimonial-bg.jpg);
     background-size: cover;
+    width: 100%;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
